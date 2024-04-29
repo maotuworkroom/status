@@ -24,7 +24,7 @@ window.Config = {
     },
     {
       text: '晴女の天气小站',
-      url: 'https://nanxmas.github.io/Otenki'
+      url: 'https://nanxmas.github.io/Weather'
     },
     {
       text: '100％晴天女孩',
